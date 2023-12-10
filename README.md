@@ -5,21 +5,21 @@ Created a simple Full-Stack "CRUD operation" project.
 
 ## Technologies Used:
 
-React Library,   (as Frontend)
-Spring Boot,     (as Backend)
-Axios,           (for API Integration)
-react toastify,  (used for notification)
-Bootstrap.
+####<p>React Library,   (as Frontend)<br>
+Spring Boot,     (as Backend)<br>
+Axios,           (for API Integration)<br>
+react toastify,  (used for notification)<br>
+Bootstrap.</p>
 
 
 ## What new things have I Learned?
 
-<i>react tostify</i> 
+####<i>react tostify</i> 
 
 
 ##  reference..
 
-Stack Overflow,
+####<p>Stack Overflow,
 react.dev,
 GitHub,
-(Reddit, YouTube, CodePen)
+(Reddit, YouTube, CodePen)</p>
