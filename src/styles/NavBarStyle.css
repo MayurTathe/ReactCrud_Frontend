@@ -1,0 +1,30 @@
+/* Add custom CSS styles to override Bootstrap's defaults */
+
+/* Navbar Brand (Logo) */
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+    font-size: 18px;
+    margin-right: 10px;
+    color: #fff;
+}
+
+/* Active Link Style */
+.navbar-nav .nav-item.active .nav-link {
+    background-color: #007bff;
+    border-radius: 5px;
+}
+
+/* Navbar Toggle Icon Color */
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+/* Add a background color when the navbar collapses */
+.navbar-dark .navbar-toggler-icon {
+    background-color: #fff;
+}
